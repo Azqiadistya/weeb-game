@@ -43,3 +43,15 @@ span {
 p {
   font-size: 14px;
 }
+.rightSidebar {
+  border-radius: 20px;
+}
+.imageSidebar {
+  margin-left: 0px;
+}
+.comments {
+  border-radius: 20px;
+}
+.rightSidebar {
+  background-color: #252654;
+}
